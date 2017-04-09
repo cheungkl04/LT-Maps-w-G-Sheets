@@ -1,1 +1,1 @@
-# LT-Maps-w-G-Sheets
+# new-leaflet-google-sheet-map
